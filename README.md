@@ -10,7 +10,7 @@ Este repositório contém uma aplicação **React** que consome dados da **Brasi
 
 ## Como Rodar Localmente
 1. Clone o repositório:  
-   `git clone [URL do repositório]`
+   `git clone https://github.com/HeyIAmThiago/mais-informa-front`
 
 2. Instale as dependências:  
    `npm install`
